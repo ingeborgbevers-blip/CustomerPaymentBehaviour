@@ -1,6 +1,6 @@
 # Customer Payment Behaviour & Cash Flow Risk Analysis
 
-![Power Bi Dashboard](PowerBI Dashboard .png)
+![Power Bi Dashboard](PowerBI Dashboard.png)
 
 ## Overview
 
