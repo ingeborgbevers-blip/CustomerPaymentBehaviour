@@ -1,5 +1,5 @@
 # Customer Payment Behaviour & Cash Flow Risk Analysis
-
+[PowerBI Dashboard](PowerBI Dashboard.png)
 ## Overview
 
 This project explores how customer payment behaviour affects cash flow stability within an SME-style accounts receivable environment.
