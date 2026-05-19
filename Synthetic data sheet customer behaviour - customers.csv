@@ -1,0 +1,101 @@
+﻿Customer_ID,Industry,Customer_Size,Region,Payment_Terms,Risk_Category,Typical_Payment_Behaviour,Account_Manager
+C001,Manufacturing,SME,North-West,30,,Late,JD
+C002,Manufacturing,Mid-Size,South-West,30,,Late,AB
+C003,Manufacturing,Mid-Size,Mid-West,30,,On Time,GP
+C004,Wholesale,SME,South-East,45,,Early,TM
+C005,Wholesale,Enterprise,South-East,45,,On Time,TM
+C006,Wholesale,Mid-Size,North-East,60,,Early,TJ
+C007,Wholesale,SME,North-West,30,,Late,JD
+C008,Manufacturing,Enterprise,South-West,60,,Late,AB
+C009,Retail,SME,Mid-West,30,,On Time,GP
+C010,Retail,SME,Mid-East,30,,Early,MD
+C011,Retail,SME,South-East,30,,On Time,TM
+C012,Retail,Mid-Size,North-East,45,,On Time,TJ
+C013,Retail,SME,South-West,45,,Late,AB
+C014,Retail,SME,Mid-West,30,,Late,GP
+C015,Retail,Enterprise,Mid-East,60,,On Time,MD
+C016,Retail,SME,South-East,45,,On Time,TM
+C017,Retail,SME,North-East,30,,On Time,TJ
+C018,Retail,SME,North-West,30,,Early,JD
+C019,Retail,SME,South-West,30,,On Time,AB
+C020,Retail,SME,Mid-West,30,,On Time,GP
+C021,Retail,SME,Mid-East,30,,On Time,MD
+C022,Hospitality,SME,Mid-West,30,,Late,GP
+C023,Hospitality,SME,North-East,30,,Late,TJ
+C024,Hospitality,SME,North-West,30,,On Time,JD
+C025,Retail,SME,Mid-West,45,,Early,GP
+C026,Retail,SME,Mid-West,45,,On Time,GP
+C027,Wholesale,Enterprise,South-East,60,,Early,TM
+C028,Manufacturing,Enterprise,South-East,60,,Late,TM
+C029,Distribution,Mid-Size,Mid-West,45,,Late,GP
+C030,Distribution,SME,North-West,30,,On Time,JD
+C031,Distribution,SME,South-West,30,,Early,AB
+C032,Distribution,SME,Mid-West,30,,On Time,GP
+C033,Hospitality,SME,Mid-East,30,,Early,MD
+C034,Hospitality,SME,South-East,30,,Late,TM
+C035,Hospitality,SME,North-East,30,,Late,TJ
+C036,Hospitality,SME,North-West,30,,On Time,JD
+C037,Distribution,Mid-Size,South-West,45,,On Time,AB
+C038,Distribution,Mid-Size,Mid-West,60,,On Time,GP
+C039,Hospitality,Mid-Size,Mid-East,30,,Early,MD
+C040,Retail,SME,South-East,30,,Late,TM
+C041,Manufacturing,SME,North-East,30,,Late,TJ
+C042,Distribution,SME,North-East,30,,On Time,TJ
+C043,Distribution,SME,South-West,30,,Early,AB
+C044,Distribution,SME,Mid-West,30,,On Time,GP
+C045,Distribution,SME,Mid-East,30,,Early,MD
+C046,Retail,Enterprise,South-East,45,,Late,TM
+C047,Manufacturing,Enterprise,North-East,60,,Late,TJ
+C048,Retail,Mid-Size,South-East,30,,On Time,TM
+C049,Hospitality,Mid-Size,Mid-West,30,,Early,GP
+C050,Retail,SME,Mid-West,30,,On Time,GP
+C051,Distribution,SME,Mid-East,30,,Early,MD
+C052,Distribution,SME,North-East,30,,Late,TJ
+C053,Distribution,SME,North-East,30,,Late,TJ
+C054,Wholesale,SME,North-West,45,,On Time,JD
+C055,Wholesale,SME,South-East,45,,On Time,TM
+C056,Manufacturing,Enterprise,Mid-West,60,,On Time,GP
+C057,Manufacturing,SME,Mid-West,30,,Early,GP
+C058,Retail,SME,South-East,30,,Late,TM
+C059,Retail,Mid-Size,North-East,30,,Late,TJ
+C060,Retail,Mid-Size,North-West,30,,On Time,JD
+C061,Hospitality,SME,South-West,30,,Early,AB
+C062,Hospitality,SME,Mid-West,30,,On Time,GP
+C063,Retail,Mid-Size,South-East,45,,Early,TM
+C064,Retail,Mid-Size,South-East,45,,Late,TM
+C065,Wholesale,Enterprise,Mid-West,60,,Late,GP
+C066,Distribution,Mid-Size,North-West,60,,On Time,JD
+C067,Manufacturing,SME,South-West,30,,Early,AB
+C068,Manufacturing,SME,North-East,30,,On Time,TJ
+C069,Wholesale,SME,Mid-East,30,,Early,MD
+C070,Wholesale,SME,Mid-West,30,,Late,GP
+C071,Manufacturing,SME,North-East,30,,Late,TJ
+C072,Manufacturing,SME,South-East,30,,On Time,TM
+C073,Retail,SME,South-West,30,,Early,AB
+C074,Retail,SME,Mid-West,30,,On Time,GP
+C075,Retail,SME,Mid-East,30,,Early,MD
+C076,Hospitality,SME,South-East,45,,Late,TM
+C077,Hospitality,Mid-Size,North-East,60,,Late,TJ
+C078,Retail,SME,North-West,30,,On Time,JD
+C079,Retail,SME,South-West,30,,Early,AB
+C080,Wholesale,SME,Mid-West,30,,On Time,GP
+C081,Distribution,SME,Mid-West,30,,Early,GP
+C082,Manufacturing,SME,South-East,30,,Late,TM
+C083,Manufacturing,SME,North-East,30,,Late,TJ
+C084,Wholesale,SME,North-West,30,,On Time,JD
+C085,Wholesale,SME,South-East,30,,Early,TM
+C086,Manufacturing,SME,Mid-West,30,,On Time,GP
+C087,Manufacturing,SME,Mid-East,30,,Early,MD
+C088,Retail,SME,South-East,30,,Late,TM
+C089,Retail,SME,Mid-West,30,,Late,GP
+C090,Retail,SME,North-West,30,,On Time,JD
+C091,Hospitality,Enterprise,North-East,45,,On Time,TJ
+C092,Hospitality,Enterprise,Mid-West,60,,On Time,GP
+C093,Retail,Enterprise,South-East,45,,On Time,TM
+C094,Retail,Mid-Size,South-East,45,,On Time,TM
+C095,Wholesale,SME,North-East,30,,Late,TJ
+C096,Distribution,SME,North-West,30,,On Time,JD
+C097,Manufacturing,SME,Mid-West,30,,On Time,GP
+C098,Manufacturing,SME,Mid-West,30,,On Time,GP
+C099,Hospitality,SME,Mid-East,30,,On Time,MD
+C100,Hospitality,SME,South-East,30,,Late,TM
